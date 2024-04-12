@@ -25,6 +25,7 @@
       "id": 8
     }
   ],
+
   "products": [
     {
       "id": 2,
@@ -37,11 +38,11 @@
         "rate": 3.9,
         "count": 120
       },
-      "image": "/product_img1.jpg",
-      "smallimg1": "/product_img1.jpg",
-      "smallimg2": "/product_img1.jpg",
-      "smallimg3": "/product_img1.jpg",
-      "smallimg4": "/product_img1.jpg"
+      "image": "/Images/product_img1.jpg",
+      "smallimg1": "/Images/product_img1.jpg",
+      "smallimg2": "/Images/product_img1.jpg",
+      "smallimg3": "/Images/product_img1.jpg",
+      "smallimg4": "/Images/product_img1.jpg"
     },
     {
       "id": 3,
@@ -54,11 +55,11 @@
         "rate": 3.9,
         "count": 120
       },
-      "image": "/product_img2.jpg",
-      "smallimg1": "/product_img2.jpg",
-      "smallimg2": "/product_img2.jpg",
-      "smallimg3": "/product_img2.jpg",
-      "smallimg4": "/product_img2.jpg"
+      "image": "/Images/product_img2.jpg",
+      "smallimg1": "/Images/product_img2.jpg",
+      "smallimg2": "/Images/product_img2.jpg",
+      "smallimg3": "/Images/product_img2.jpg",
+      "smallimg4": "/Images/product_img2.jpg"
     },
     {
       "id": 4,
@@ -71,11 +72,11 @@
         "rate": 3.9,
         "count": 120
       },
-      "image": "/product_img3.jpg",
-      "smallimg1": "/product_img3.jpg",
-      "smallimg2": "/product_img3.jpg",
-      "smallimg3": "/product_img3.jpg",
-      "smallimg4": "/product_img3.jpg"
+      "image": "/Images/product_img3.jpg",
+      "smallimg1": "/Images/product_img3.jpg",
+      "smallimg2": "/Images/product_img3.jpg",
+      "smallimg3": "/Images/product_img3.jpg",
+      "smallimg4": "/Images/product_img3.jpg"
     },
     {
       "title": "Light Blue Shirt",
@@ -87,11 +88,11 @@
         "rate": 3.9,
         "count": 120
       },
-      "image": "/product_img4.jpg",
-      "smallimg1": "/product_img4.jpg",
-      "smallimg2": "/product_img4.jpg",
-      "smallimg3": "/product_img4.jpg",
-      "smallimg4": "/product_img4.jpg",
+      "image": "/Images/product_img4.jpg",
+      "smallimg1": "/Images/product_img4.jpg",
+      "smallimg2": "/Images/product_img4.jpg",
+      "smallimg3": "/Images/product_img4.jpg",
+      "smallimg4": "/Images/product_img4.jpg",
       "id": 5
     },
     {
@@ -104,11 +105,11 @@
         "rate": 3.9,
         "count": 120
       },
-      "image": "/product_img5.jpg",
-      "smallimg1": "/product_img5.jpg",
-      "smallimg2": "/product_img5.jpg",
-      "smallimg3": "/product_img5.jpg",
-      "smallimg4": "/product_img5.jpg",
+      "image": "/Images/product_img5.jpg",
+      "smallimg1": "/Images/product_img5.jpg",
+      "smallimg2": "/Images/product_img5.jpg",
+      "smallimg3": "/Images/product_img5.jpg",
+      "smallimg4": "/Images/product_img5.jpg",
       "id": 6
     },
     {
@@ -121,11 +122,11 @@
         "rate": 3.9,
         "count": 120
       },
-      "image": "/product_img6.jpg",
-      "smallimg1": "/product_img6.jpg",
-      "smallimg2": "/product_img6.jpg",
-      "smallimg3": "/product_img6.jpg",
-      "smallimg4": "/product_img6.jpg",
+      "image": "/Images/product_img6.jpg",
+      "smallimg1": "/Images/product_img6.jpg",
+      "smallimg2": "/Images/product_img6.jpg",
+      "smallimg3": "/Images/product_img6.jpg",
+      "smallimg4": "/Images/product_img6.jpg",
       "id": 7
     },
     {
@@ -138,11 +139,11 @@
         "rate": 3.9,
         "count": 120
       },
-      "image": "/product_img7.jpg",
-      "smallimg1": "/product_img7.jpg",
-      "smallimg2": "/product_img7.jpg",
-      "smallimg3": "/product_img7.jpg",
-      "smallimg4": "/product_img7.jpg",
+      "image": "/Images/product_img7.jpg",
+      "smallimg1": "/Images/product_img7.jpg",
+      "smallimg2": "/Images/product_img7.jpg",
+      "smallimg3": "/Images/product_img7.jpg",
+      "smallimg4": "/Images/product_img7.jpg",
       "id": 8
     },
     {
@@ -155,11 +156,11 @@
         "rate": 3.9,
         "count": 120
       },
-      "image": "/product_img8.jpg",
-      "smallimg1": "/product_img8.jpg",
-      "smallimg2": "/product_img8.jpg",
-      "smallimg3": "/product_img8.jpg",
-      "smallimg4": "/product_img8.jpg",
+      "image": "/Images/product_img8.jpg",
+      "smallimg1": "/Images/product_img8.jpg",
+      "smallimg2": "/Images/product_img8.jpg",
+      "smallimg3": "/Images/product_img8.jpg",
+      "smallimg4": "/Images/product_img8.jpg",
       "id": 9
     }
   ],
