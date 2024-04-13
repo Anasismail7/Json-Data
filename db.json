@@ -34,6 +34,7 @@
       "price": 250,
       "old_price": 2000,
       "discount": 20,
+      "quantity": 1,
       "rating": {
         "rate": 3.9,
         "count": 120
@@ -51,6 +52,7 @@
       "price": 250,
       "old_price": 1000,
       "discount": 15,
+      "quantity": 1,
       "rating": {
         "rate": 3.9,
         "count": 120
@@ -68,6 +70,7 @@
       "price": 500,
       "old_price": 3000,
       "discount": 10,
+      "quantity": 1,
       "rating": {
         "rate": 3.9,
         "count": 120
@@ -84,6 +87,7 @@
       "price": 250,
       "old_price": 1000,
       "discount": 40,
+      "quantity": 1,
       "rating": {
         "rate": 3.9,
         "count": 120
@@ -101,6 +105,7 @@
       "price": 250,
       "old_price": 1000,
       "discount": 20,
+      "quantity": 1,
       "rating": {
         "rate": 3.9,
         "count": 120
@@ -118,6 +123,7 @@
       "price": 250,
       "old_price": 1000,
       "discount": 35,
+      "quantity": 1,
       "rating": {
         "rate": 3.9,
         "count": 120
@@ -135,6 +141,7 @@
       "price": 250,
       "old_price": 1000,
       "discount": 45,
+      "quantity": 1,
       "rating": {
         "rate": 3.9,
         "count": 120
@@ -151,7 +158,8 @@
       "discription": "Lorem ipsum dolor sit amet consectetur. Maecenas urna tortor egestas vitae ut id.",
       "price": 250,
       "old_price": 1000,
-      " ": 15,
+      "discount": 15,
+      "quantity":1,
       "rating": {
         "rate": 3.9,
         "count": 120
