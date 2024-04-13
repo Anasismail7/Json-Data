@@ -1,30 +1,5 @@
 {
-  "users": [
-    {
-      "email": "anasimsa7@gmail.com",
-      "password": "$2a$10$MulOpBSK9b5xZcYI.Fo77ukhmkIW2xWL.aDEceS4Bs0En63IG6B6C",
-      "name": "Anas",
-      "confirmPassword": "123456",
-      "agreeToTerms": true,
-      "id": 6
-    },
-    {
-      "email": "ismail@gmail.com",
-      "password": "$2a$10$jpUHF3j/XEUskJn4rHN7YeFEBLsghxuqttsmIgxJbvhZx5MB7kVde",
-      "name": "ismail",
-      "confirmPassword": "123456",
-      "agreeToTerms": true,
-      "id": 7
-    },
-    {
-      "email": "mostafa@gmail.com",
-      "password": "$2a$10$UHqwuEbG/VSQZBO0SoQQbulmFW5gymnKy690jn9zQW/vZzHSVdLuK",
-      "name": "mostafa",
-      "confirmPassword": "123456",
-      "agreeToTerms": true,
-      "id": 8
-    }
-  ],
+  "users": [],
 
   "products": [
     {
@@ -159,7 +134,7 @@
       "price": 250,
       "old_price": 1000,
       "discount": 15,
-      "quantity":1,
+      "quantity": 1,
       "rating": {
         "rate": 3.9,
         "count": 120
